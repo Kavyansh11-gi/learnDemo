@@ -1,4 +1,3 @@
-# learnDemo
-This repo is for learning purpose.
+This is for learning purpose.
 <br>
-Author - Kavy
+Author - Kavyansh Nigam
